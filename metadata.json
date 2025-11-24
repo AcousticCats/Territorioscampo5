@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Territórios Sul Pelotas",
+  "description": "Territory management application for congregation field service, including maps, reports, and real-time status tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
